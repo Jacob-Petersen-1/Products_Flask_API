@@ -30,3 +30,4 @@ sqlalchemy = "==1.4.46"
 werkzeug = "==2.2.2"
 
 [dev-packages]
+autopep8 = "*"
